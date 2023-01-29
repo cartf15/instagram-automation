@@ -24,8 +24,8 @@ import shutil
 
 driverPath='C:/Program Files/chromedriver/'
 CHROMEDRIVER=driverPath+'chromedriver.exe'
-USUARIO='nessieshop'
-CONTRASEÑA='Trivium1224'
+USUARIO='user'
+CONTRASEÑA='pass'
 
 
 #usuarios
